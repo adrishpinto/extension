@@ -1,0 +1,37 @@
+sites with issue:
+1. Google Accounts 
+everything works only (dob is required)  
+
+2.glassdoor *
+-pop-up (normal login works)
+
+3. freshers world 
+city and highest qualification needed (inspect element does not give details to target) 
+
+
+-autofill stays for a second and then disappears. 
+
+working sites:
+
+1. indeed *
+2. naukiri *
+3. Internshala *
+4. LinkedIn *
+5. foundit 
+6. ZipRecruiter
+7. times job
+8. career builder
+9. ladders
+10. jobseeker
+11. apna
+12. simplyHired (uses indeed) 
+13. UpWork
+14. Jobaaj
+15. cutshort
+16. wellfound
+17. Remote.co
+18. flexJobs
+
+Possible Features
+Add autofill for specific sites like, LinkedIn, Naukri, InternShala. 
+
